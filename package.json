@@ -1,0 +1,12 @@
+{
+  "name": "it115",
+  "version": "1.0.0",
+  "description": "$ git checkout -b feature-1 Switched to a new branch 'feature-1'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
